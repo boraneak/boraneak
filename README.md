@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Bora
 
-<!--
-**boraneak/boraneak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python backend & data engineer, based in Phnom Penh, Cambodia — open to remote work.
 
-Here are some ideas to get you started:
+- Building data pipelines and analysis with Python (pandas, SQL)
+- Backend development with FastAPI
+- Currently deepening AI/ML engineering skills through self-study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Welcome to my portfolio, where I document a running summary of my [data projects](https://github.com/boraneak/portfolio).
+
+### 🛠️ Tools
+
+- **Language:** Python, SQL
+- **Backend:** FastAPI, Docker
+- **Data:** pandas, matplotlib, seaborn
+- **Foundational:** Node.js/Express, Vue.js, MySQL
+
+### 👋 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/boraneak)
