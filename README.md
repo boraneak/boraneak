@@ -1,10 +1,9 @@
 ### 👋 Hi, I'm Bora
 
-Python backend & data engineer, based in Phnom Penh, Cambodia — open to remote work.
-
+Data analyst & Python backend, based in Phnom Penh, Cambodia — open to remote work.
 - Building data pipelines and analysis with Python (pandas, SQL)
 - Backend development with FastAPI
-- Currently deepening AI/ML engineering skills through self-study
+- Currently building out my analytics portfolio
 
 ### 📚 Projects
 
