@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Bora
 
-<!--
-**boraneak/boraneak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Business Intelligence
 
-Here are some ideas to get you started:
+I'm a **Data Analyst with a software engineering background**, focused on using **Python, SQL, and data visualization** to turn data into useful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My engineering background gives me a strong foundation in **software development, databases, and reliable data workflows**, which I apply to data analysis and business intelligence.
+
+## 🛠️ Technical Skills
+
+**📊 Data Analysis:** `Python` `pandas` `SQL` `Excel` `Google Sheets`
+
+**📈 BI & Visualization:** `Data Visualization` `KPI Analysis` `Reporting`
+
+**🗄️ Databases:** `MySQL` `PostgreSQL`
+
+**⚙️ Engineering:** `Git` `Docker` `FastAPI`
+
+## 🚀 Selected Projects
+
+| Project                                                                                  | Focus                                                      | Tools                                    |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
+| **[Customer Churn Analysis](https://github.com/boraneak/Customer-Churn-Analysis)**       | 📉 Churn drivers, customer segments & retention insights   | `Python` `pandas` `scikit-learn`         |
+| **[Supermarket Sales Analysis](https://github.com/boraneak/supermarket-sales-analysis)** | 🛒 Sales patterns & operational insights across 3 branches | `Python` `pandas` `Matplotlib` `Seaborn` |
+
+## 🤝 Connect
+
+🔗 **[LinkedIn](https://linkedin.com/in/boraneak)**
