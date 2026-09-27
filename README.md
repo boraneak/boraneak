@@ -21,8 +21,6 @@ My engineering background gives me a strong foundation in **software development
 | Project                                                                                  | Focus                                                      | Tools                                    |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
 | **[Customer Churn Analysis](https://github.com/boraneak/Customer-Churn-Analysis)**       | 📉 Churn drivers, customer segments & retention insights   | `Python` `pandas` `scikit-learn`         |
-| **[Supermarket Sales Analysis](https://github.com/boraneak/supermarket-sales-analysis)** | 🛒 Sales patterns & operational insights across 3 branches | `Python` `pandas` `Matplotlib` `Seaborn` |
-
 ## 🤝 Connect
 
 🔗 **[LinkedIn](https://linkedin.com/in/boraneak)**
