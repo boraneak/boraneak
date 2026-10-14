@@ -19,8 +19,10 @@ My engineering background gives me a strong foundation in **software development
 ## 🚀 Selected Projects
 
 | Project                                                                                  | Focus                                                      | Tools                                    |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| **[Cambodia Tourism Recovery Analysis](https://github.com/boraneak/cambodia-tourism-analysis)** | 📈 Tracking Cambodia's post-pandemic visitor recovery from official government data — top source markets, seasonality, and recovery trends vs. 2019 | `Python` `SQL` `Excel` `pandas` `Tableau` |
 | **[Customer Churn Analysis](https://github.com/boraneak/Customer-Churn-Analysis)**       | 📉 Churn drivers, customer segments & retention insights   | `Python` `pandas` `scikit-learn`         |
+
 ## 🤝 Connect
 
 🔗 **[LinkedIn](https://linkedin.com/in/boraneak)**
